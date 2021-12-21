@@ -1,6 +1,7 @@
 import React from "react";
 import img from "../assets/XPENCE.svg";
 
+
 function Signup() {
   return (
     <div className="signup-page">
