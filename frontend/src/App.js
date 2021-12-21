@@ -8,23 +8,32 @@ import NewIncome from "./components/NewIncome";
 import PrefCategolies from "./components/PrefCategolies";
 import Preference from "./components/Preference";
 import Signup from "./components/Signup";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <div className='content'>
-      <Login/>
-      <Signup/>
-      <MyProfileInfo/>
-      <NewAccount/>
-      <Preference/>
-      <PrefCategolies/>
-      <NewIncome/>
-      <NewCategory/>
-      <NewExpense/>
+    <Router>
+      <div className="App">
+        <div className="content">
+          <Switch>
+            <Route path="/">
+              <Signup />
+            </Route>
+            <Route path="/Login">
+              <Login />
+            </Route>
+          </Switch>
+
+          {/* <MyProfileInfo />
+          <NewAccount />
+          <Preference />
+          <PrefCategolies />
+          <NewIncome />
+          <NewCategory />
+          <NewExpense /> */}
+        </div>
       </div>
-      
-    </div>
+    </Router>
   );
 }
 
