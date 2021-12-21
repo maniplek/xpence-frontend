@@ -11,12 +11,12 @@ function Login() {
         <div>
             <label for="name">Name</label>
             <br />
-            <input type='Name' name='name' placeholder="Enter Name"></input>
+            <input type='name' name='name' autoComplete='off' placeholder="Enter Name"></input>
         </div>
         <div>
             <label for="password">Password</label>
             <br />
-            <input type='Password' name='password' placeholder="Password"></input>
+            <input type='password' name='password' autoComplete='off' placeholder="Password"></input>
         </div>
         <di>
           <button type='submit'>Login</button>
