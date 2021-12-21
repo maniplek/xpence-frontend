@@ -19,7 +19,7 @@ function Login() {
             <input type='Password' name='password' placeholder="Password"></input>
         </div>
         <di>
-          <button>Login</button>
+          <button type='submit'>Login</button>
         </di>
 
         <div>

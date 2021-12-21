@@ -30,7 +30,7 @@ function Signup() {
           <input type="password" name="password" placeholder="Password" />
         </div>
         <di>
-          <button>Register</button>
+          <button type='submit'>Register</button>
         </di>
         <div>
           <h3>Already have an acount? <Link to='/Login'>LOGIN</Link> </h3>
