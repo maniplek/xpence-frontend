@@ -1,5 +1,6 @@
 import React from "react";
 import img from "../assets/XPENCE.svg";
+import { Link } from 'react-router-dom';
 
 
 function Signup() {
@@ -32,7 +33,7 @@ function Signup() {
           <button>Register</button>
         </di>
         <div>
-          <h3>Already have an acount? LOGIN</h3>
+          <h3>Already have an acount? <Link to='/Login'>LOGIN</Link> </h3>
         </div>
       </form>
       <h3>TaskForce 5.0</h3>
