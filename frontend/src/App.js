@@ -16,7 +16,7 @@ function App() {
       <div className="App">
         <div className="content">
           <Switch>
-            <Route path="/">
+            <Route exact path="/">
               <Signup />
             </Route>
             <Route path="/Login">
