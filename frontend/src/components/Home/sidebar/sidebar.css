@@ -1,0 +1,118 @@
+.sidebar{
+    background: #FCF9FF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 12px #00000012;
+    opacity: 1;
+    width: 25%;
+    height: 100vh;
+}
+#side-title{
+    top: 135px;
+    left: 64px;
+    width: 120px;
+    height: 23px;
+    text-align: left;
+    font: normal normal bold 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+ul{
+    list-style-type: none;
+}
+.all-account{
+    background: #EEE4F8 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    font: normal normal bold 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+    opacity: 1;
+}
+.mobileMoney{
+    top: 280px;
+    left: 64px;
+    width: 110px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;    
+}
+.Equity{
+    top: 335px;
+    left: 64px;
+    width: 91px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;  
+}
+.cash{
+    top: 390px;
+    left: 64px;
+    width: 42px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;
+}
+.preference{
+    top: 80000px;
+    left: px;
+    width: 94px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+}
+.myProfile{
+    top: 595px;
+    left: 64px;
+    width: 77px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 16px/25px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;
+}
+a{
+    top: 1014px;
+    left: 32px;
+    width: 48px;
+    height: 20px;
+    text-align: left;
+    text-decoration: underline;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #000000;;
+    opacity: 1;
+}
+.logout{
+    position: absolute;
+    bottom: 10px;
+    /* width: 22%; */
+    border: 0px solid #8AC007;
+    /* top: 977px; */
+    left: 40px;
+    width: 344px;
+    height: 58px;
+    text-align:inherit;
+
+}
+
+/* .your-div {
+    position: relative;
+}
+
+.your-div span {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+} */

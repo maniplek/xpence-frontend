@@ -1,0 +1,71 @@
+#sub-menu2{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+#general{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#categor{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+    text-transform: uppercase;
+}
+#categories-number{
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+}
+
+#sub-menu1{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.sub-menu{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+#category{
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+    opacity: 1;
+}
+ 
+#menu-category{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    /* justify-content:space-between;  */
+}
+
+#btnn{
+    background: #FFF5DF 0% 0% no-repeat padding-box; 
+    border-radius: 8px;
+    text-align: center;
+    font: normal normal bold 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+    border-style: none;
+}
+.menu-category{
+    display: inline;
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.125" height="14.655" viewBox="0 0 16.125 14.655">
+  <g id="ic-actions-calendar" transform="translate(8.063 7.327)">
+    <g id="ic-actions-calendar-2" data-name="ic-actions-calendar" transform="translate(-7.5 -6.765)">
+      <line id="Line_19" data-name="Line 19" x1="14.932" transform="translate(0 4.545)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.125"/>
+      <line id="Line_20" data-name="Line 20" y1="1.53" transform="translate(3.045)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.125"/>
+      <line id="Line_21" data-name="Line 21" y1="1.53" transform="translate(12.143)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.125"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="15" height="12" rx="1.5" transform="translate(0 1.53)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.125"/>
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="2.25" height="2.25" rx="0.375" transform="translate(2.145 6.788)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.125"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="2.25" height="2.25" rx="0.375" transform="translate(6.457 6.788)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.125"/>
+    </g>
+  </g>
+</svg>

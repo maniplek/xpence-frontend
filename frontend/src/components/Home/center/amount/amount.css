@@ -1,0 +1,66 @@
+.curent-amount{
+    background:#FCF9FF 0% 0% no-repeat padding-box ;
+    /* background: blue; */
+    top: 202px;
+    left: 376px;
+    width: 398px;
+    height: 152px;
+    text-align: center;
+}
+h3{
+    color: #5E419A;
+    top: 240px;
+    left: 454px;
+    width: 242px;
+    height: 51px;
+    text-align: center;
+    font: normal normal 600 36px/55px Poppins;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+p{
+    top: 299px;
+    left: 521px;
+    width: 108px;
+    height: 17px;
+    text-align: center;
+    font: normal normal medium 12px/18px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;
+}
+.expense-button{
+    top: 386px;
+    left: 376px;
+    width: 200px;
+    height: 48px;
+    background: #FFF5DF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none;
+    color:#ECAA11;
+}
+.income-button{
+    top: 386px;
+    left: 575px;
+    width: 199px;
+    height: 48px;
+    background: #ECAA11 0% 0% no-repeat padding-box;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 1;
+    border: none;
+    text-align: center;
+    font: normal normal bold 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #FCF9FF;
+    opacity: 1;
+}
+.DialogContent{
+    width: 100%;
+    height: fit-content;
+    background-color: red;
+    
+}
+
+.DialogActions{
+    width: 100% !important;
+}

@@ -1,0 +1,25 @@
+*{
+    /* background-color: red; */
+}
+#new-category{
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+}
+#add-category-bttn{
+    border-style: none;
+    background: #ECAA11 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    text-align: center;
+    font: normal normal bold 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #FCF9FF;
+    opacity: 1;
+    /* float: left; */
+    /* align-items: right; */
+    /* float: left; */
+    /* align-self: left; */
+    
+
+}

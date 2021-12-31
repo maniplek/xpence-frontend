@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.9" height="16.932" viewBox="0 0 15.9 16.932">
+  <g id="ic-actions-log-out" transform="translate(9.148 9.75)">
+    <g id="ic-actions-log-out-2" data-name="ic-actions-log-out" transform="translate(-8.398 -9)">
+      <path id="Path_30" data-name="Path 30" d="M14.283,13.288v3.429a1.715,1.715,0,0,1-1.715,1.715H7.425A1.715,1.715,0,0,1,5.71,16.717v-12A1.715,1.715,0,0,1,7.425,3h5.144a1.715,1.715,0,0,1,1.715,1.715V8.144" transform="translate(-5.71 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_49" data-name="Line 49" x2="8.573" transform="translate(5.821 7.673)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.5"/>
+      <path id="Path_31" data-name="Path 31" d="M18.82,8l2.949,2.949a.712.712,0,0,1,0,1.012l-2.9,2.9" transform="translate(-7.58 -3.713)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

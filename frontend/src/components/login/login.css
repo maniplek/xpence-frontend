@@ -1,0 +1,85 @@
+.signup-page{
+    /* background-color: khaki; */
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 8em; */
+    top: 211px;
+    left: 704px;
+    width: 512px;
+    height: 690px;
+}
+form{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 24px #0000000F;
+    border-radius: 8px;
+    opacity: 1;
+    max-width: 500px;
+    margin: auto;
+}
+/* .image{
+    background: transparent url('img/XPENCE.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+} */
+#logo-image{
+    background: transparent;
+    opacity: 1;
+}
+#register{
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+    opacity: 1;
+    align-content: center;
+}
+#input-name{
+    text-align: left;
+    font: normal normal medium 12px/18px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+#input{
+    background: #FCF9FF 0% 0% no-repeat padding-box;
+    border-radius: 8px 0px 0px 8px;
+    opacity: 1;
+    top: 460px;
+    left: 754px;
+    width: 407px;
+    height: 48px;
+    align-items: center;
+    border-style: none;
+}
+button{
+    background: #ECAA11 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    top: 736px;
+    left: 754px;
+    width: 407px;
+    height: 48px;
+    border-style: none;
+}
+#got-account{
+    text-align: center;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    
+}
+#link{
+    text-align: center;
+    text-decoration: underline;
+    font: normal normal bold 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+}
+footer{
+    text-align: center;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #B1ABB7;
+    opacity: 1;
+    
+}

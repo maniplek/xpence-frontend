@@ -1,0 +1,110 @@
+.title-preference{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    /* background: blue; */
+}
+ul{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+    text-transform: uppercase;
+}
+.general{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #ECAA11;
+    text-transform: uppercase;
+}
+.category{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+ul :hover{
+    /* background: #ECAA11;
+    background: #2e2e2e 0% 0% no-repeat padding-box;
+    border: 0;
+    padding: 1px; */
+    /* background: #f1356d;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer; */
+}
+
+#pref{
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #5E419A;
+    opacity: 1;
+}
+#name{
+    text-align: left;
+    font: normal normal medium 12px/18px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+}
+#input-field{
+    background: #FCF9FF 0% 0% no-repeat padding-box;
+    border-radius: 8px 0px 0px 8px;
+}
+#check{
+    /* background: #FCF9FF 0% 0% no-repeat padding-box;
+    border: 1px solid #EEE4F8;
+    border-radius: 6px;
+    opacity: 0.6; */
+}
+option{
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #7B728D;
+    opacity: 1;
+}
+.back{
+    background: #EEE4F8 0% 0% no-repeat padding-box;
+    border: 0;
+    padding: 1px;
+    cursor: pointer;
+    top: 74px;
+    left: 502px;
+    /* width: 916px; */
+    height: 40px;
+}
+/* input.checkbx{
+    transform: scale(0.3);
+} */
+#bttn{
+    background: #ECAA11 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    text-align: center;
+    font: normal normal bold 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #FCF9FF;
+    top: 718px;
+    left: 534px;
+    width: 199px;
+    height: 48px;
+}
+input{
+    border-radius: inherit;
+    opacity: inherit;
+    top: inherit;
+    left: inherit;
+    width: inherit;
+    height: inherit;
+    align-items: inherit;
+    /* border-style: inherit; */
+
+
+}
