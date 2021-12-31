@@ -53,7 +53,7 @@ function Login() {
           ></input>
         </div>
         <di>
-          <button type="submit" onClick={submitLogin}>Login</button>
+          <button type="submit" onClick={submitLogin}><link to='/Main'>Login</link></button>
         </di>
 
         <div>

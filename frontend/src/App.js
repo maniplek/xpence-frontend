@@ -25,7 +25,7 @@ function App() {
         <div className="App">
           <div className="content">
             <Switch>
-              <Route exact path="/si">
+              <Route exact path="/">
                 <Signup />
               </Route>
               <Route path="/main">
@@ -82,4 +82,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
